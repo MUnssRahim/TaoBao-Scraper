@@ -2,3 +2,8 @@ requests
 playwright
 mysql-connector-python
 Pillow
+time
+random
+webbrowser
+pickle
+json
